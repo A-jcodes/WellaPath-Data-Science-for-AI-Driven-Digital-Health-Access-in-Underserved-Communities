@@ -1,2 +1,7 @@
-# WellaPath-Data-Science-for-AI-Driven-Digital-Health-Access-in-Underserved-Communities
-“A real-world data science project where I worked on data pipelines, analytics, and AI-driven decision support for a digital health platform serving underserved populations in Africa.”
+**Project Summary**
+
+This project simulates a real-world health-tech deployment scenario where insufficient medical data required the creation of a structured synthetic dataset to enable machine learning–based disease classification.
+
+I worked within the Data Science team supporting the development of an AI-assisted symptom triage system for WellaPath, a digital health platform serving underserved populations in Nigeria.
+
+The objective was to classify patient symptom profiles into 7 common diseases using supervised ML models and determine the most reliable algorithm for downstream deployment.
