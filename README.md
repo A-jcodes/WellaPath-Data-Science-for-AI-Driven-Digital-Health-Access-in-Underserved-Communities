@@ -84,11 +84,6 @@ Models performed best on common diseases (Malaria/Pneumonia) but struggled more 
 
 This project represents a real-world health AI deployment scenario where limited clinical data required the design of a domain-informed synthetic dataset to enable machine learning–based disease classification for underserved Nigerian communities. I engineered symptom-driven data, trained and benchmarked six classifiers, and evaluated them using confusion matrices to identify models suitable for reliable triage support. Logistic Regression (85%) and SVM (84%) delivered the highest accuracy, while Random Forest (82%) was selected as the most robust for deployment due to its stability under noisy, non-organic data.
 
-⚠ **Disclaimer**
-
-Synthetic data included.
-Models built for educational and research demonstration. Not medical advice.
-
 
 
 
